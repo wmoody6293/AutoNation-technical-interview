@@ -13,7 +13,9 @@ function App() {
       <header className="header">
         <h3>Welcome, Will!</h3>
       </header>
-      <section className="content"></section>
+      <section className="content">
+        <Card imgURL="string" title="string" />
+      </section>
     </main>
   );
 }
